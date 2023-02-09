@@ -1,0 +1,73 @@
+#main_sidebar{
+	
+	border-bottom:1px solid #6B710E;
+	margin-bottom:-75px;
+	overflow:hidden;
+	padding-bottom:5px;
+	float:right;
+
+	margin-top:185px;
+}
+#content img{
+	
+	width:80px;
+margin:0 auto;
+display: block;
+	
+   
+}
+#ite{
+	
+
+	width: 960px;
+}
+
+#content figure{
+	
+	width:450px;
+	padding:10px;
+	background:#ddd;
+	margin:0 auto;
+    display: block;
+	
+	
+}
+
+#content figure{
+	
+	text-align:center;
+	color:green;
+	font-family:arial;
+	font-weight:bold;
+	
+	
+}
+
+#content h3{
+	
+		color:#6B710E;
+		font-family:arial;
+		margin-bottom:5px;
+		margin-top:10px;
+		font-size:20px;
+		
+	
+}
+#pro{
+	
+	text-align:center;
+	font-size:50px;
+	color:#1681ce80;
+}
+
+video{
+	
+	width:900px;
+	background:#8a3309;
+	padding:10px;
+	border-radius:5px;
+	
+	
+	
+}
+

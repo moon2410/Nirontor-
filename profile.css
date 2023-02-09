@@ -1,0 +1,36 @@
+#content img {
+    width: 690px;
+    margin: 0 auto;
+    display: block;
+}
+#content figure {
+    text-align: center;
+    color: green;
+    font-family: arial;
+    font-weight: bold;
+}
+
+#content figure {
+    width: 800px;
+    padding: 10px;
+    background: #ddd;
+    margin: 0 auto;
+    display: block;
+}
+#content {
+    width: 960px;
+    margin-right: 20px;
+    float: left;
+}
+#pro{
+	text-align:center;
+	
+	color:yellow;
+}
+#content h2 {
+    color: #8eaed6;
+    font-family: arial;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    font-size: 23px;
+}
